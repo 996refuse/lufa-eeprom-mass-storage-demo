@@ -1,0 +1,13 @@
+syntax: glob
+*.d
+*.lst
+*.o
+*.tmp
+*.hex
+*.lss
+*.elf
+*.map
+*.sym
+*.eep
+
+.DS_Store
